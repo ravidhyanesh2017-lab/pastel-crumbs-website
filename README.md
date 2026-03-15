@@ -19,16 +19,16 @@ Live Website:[Pastel Crumbs](https://pastelcrumbs.great-site.net)
 ![Home](home.jpg.jpeg)
 
 ### About
-![About](about.jpg)
+![About](about.jpg.jpeg)
 
 ### Menu
-![Menu](menu.jpg)
+![Menu](menu.jpg.jpeg)
 
 ### Order
-![Order](order.jpg)
+![Order](order.jpg.jpeg)
 
 ### Contact
-![Contact](contact.jpg)
+![Contact](contact.jpg.jpeg)
 
 ### Services
-![Services](services.jpg)
+![Services](services.jpg.jpeg)

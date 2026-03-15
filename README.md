@@ -12,3 +12,23 @@ Features:
 The website was hosted online using InfinityFree.
 
 Live Website:[Pastel Crumbs](https://pastelcrumbs.great-site.net)
+
+## Website Pages
+
+### Home
+![Home](home.jpg)
+
+### About
+![About](about.jpg)
+
+### Menu
+![Menu](menu.jpg)
+
+### Order
+![Order](order.jpg)
+
+### Contact
+![Contact](contact.jpg)
+
+### Services
+![Services](services.jpg)

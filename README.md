@@ -16,7 +16,7 @@ Live Website:[Pastel Crumbs](https://pastelcrumbs.great-site.net)
 ## Website Pages
 
 ### Home
-![Home](home.jpg)
+![Home](home.jpg.jpeg)
 
 ### About
 ![About](about.jpg)
